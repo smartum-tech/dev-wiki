@@ -1,0 +1,9 @@
+{
+  "name": "dev-wiki",
+  "version": "0.1.0",
+  "description": "Install a maintained knowledge tree (wiki/) and its skills into a repository, then bootstrap it interactively: the agent fills what the code answers, the team decides the rest guide by guide.",
+  "author": { "name": "Smartum Tech" },
+  "homepage": "https://github.com/smartum-tech/dev-wiki",
+  "repository": "https://github.com/smartum-tech/dev-wiki",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smartum-tech",
+  "owner": { "name": "Smartum Tech" },
+  "plugins": [
+    {
+      "name": "dev-wiki",
+      "source": "./",
+      "description": "Install and bootstrap a maintained knowledge tree (wiki/) for AI-assisted development."
+    }
+  ]
+}

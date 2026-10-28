@@ -1,0 +1,10 @@
+project:                 # filled by /wiki-bootstrap recon; `~` means not decided yet
+  name: ~
+  main-branch: ~
+  package-manager: ~
+  code-query-tool: ~     # e.g. "graphify MCP", or "grep/Glob/LSP" when there is no code graph
+  domain-dirs: []        # directories whose children are domain modules (lint UNCOVERED check)
+  legacy-docs: ~         # existing docs folder the bootstrap compiles (memory-bank/, docs/); none if none
+  interview-language: ~  # language the bootstrap interview speaks; the wiki itself stays English
+placeholders: {}         # every {{NAME}} the recon filled in wiki/, as NAME: value — the record
+                         # the skills (and the questionnaire's detect commands) read values from
